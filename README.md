@@ -10,7 +10,7 @@
 # Results – The key findings of our analysis include:
 ## - We found that 90,398 current employees met the criteria (i.e. born during the 1952-1955 time frame) for likely near-term retirements (https://github.com/Thomson1923/Pewlett-Hackard-Analysis/blob/main/Near-Term%20Retirements%20by%20Title.pdf)
 ## - Among the likely retirees, over 63% hold the titles of Senior Engineer or Senior Staff
-## - Using the current limiting definition of potential mentors (only those employees born during 1965), we have only 1,549 employees that could serve as mentors ()
+## - Using the current limiting definition of potential mentors (only those employees born during 1965), we have only 1,549 employees that could serve as mentors (https://github.com/Thomson1923/Pewlett-Hackard-Analysis/blob/main/Mentor%20Candidates%20by%20Title.pdf)
 ## - We do not currently have any active employee that meets the criteria for a mentor to new Managers
 
 # Summary
